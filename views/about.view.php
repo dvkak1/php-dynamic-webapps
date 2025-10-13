@@ -1,0 +1,12 @@
+<?php require('partials/head.php');?>
+ <?php require('partials/nav.php');?>
+   <?php require('partials/banner.php');?>
+
+  <main>
+    <div class="mx-auto max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
+       <p>Welcome to your About page</p>
+       <script src="https://cdn.tailwindcss.com"></script>
+    </div>
+  </main>
+
+<?php require('partials/footer.php'); ?>
