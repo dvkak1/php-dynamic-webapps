@@ -22,12 +22,6 @@ function dd($value) {
 //
 
 //You can use conditionals and booleans in two syntaxes, actually 
-if ($_SERVER['REQUEST_URI'] === '/') {
-    echo 'bg-gray-900 text-white';
-} else {
-    echo 'text-gray-300';
-}
-
 
 //You can use conditionals and booleans in two syntaxes, actually 
 // if ($_SERVER['REQUEST_URI'] === '/') {

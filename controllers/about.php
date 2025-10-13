@@ -1,7 +1,5 @@
 <?php 
 
-require "functions.php";
-
 $heading = "About";
 
 // echo $_SERVER['REQUEST_URI'];
