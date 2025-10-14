@@ -9,6 +9,7 @@ function dd($value) {
 }
 
 
+
 //What in the world is that line of code above? 
 
 //The reason why this is a thing is because we are looking at dump and die. 
